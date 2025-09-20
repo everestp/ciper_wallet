@@ -1,0 +1,42 @@
+export const verifiedMerchants = [
+  {
+    id: 'merchant_1',
+    name: 'Coffee Bean Café',
+    category: 'Food & Beverage',
+    verified: true,
+    rating: 4.8,
+    description: 'Premium coffee and freshly baked pastries. Accepting crypto payments since 2022.',
+  },
+  {
+    id: 'merchant_2',
+    name: 'TechStore Online',
+    category: 'Electronics',
+    verified: true,
+    rating: 4.6,
+    description: 'Latest gadgets and electronics with worldwide shipping. Crypto-friendly retailer.',
+  },
+  {
+    id: 'merchant_3',
+    name: 'Green Leaf Restaurant',
+    category: 'Food & Beverage',
+    verified: true,
+    rating: 4.9,
+    description: 'Organic farm-to-table dining experience. Pioneer in crypto adoption.',
+  },
+  {
+    id: 'merchant_4',
+    name: 'BookStore Central',
+    category: 'Books & Education',
+    verified: true,
+    rating: 4.5,
+    description: 'Largest selection of books and educational materials. Digital payment specialist.',
+  },
+  {
+    id: 'merchant_5',
+    name: 'FitGear Pro',
+    category: 'Sports & Fitness',
+    verified: true,
+    rating: 4.7,
+    description: 'Professional fitness equipment and sportswear. Trusted crypto merchant.',
+  },
+];
